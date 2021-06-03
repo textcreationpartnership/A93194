@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short ansvver to some obiections against the practises of those who are called Independents, and a declaration against the things they are supposed to hold.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93194</idno><idno type="EEBO-CITATION">99859932</idno>
+  <idno type="VID">112036</idno>
+  <idno type="EEBO-PROQUEST">2248505493</idno>
+  
+            <idno type="STC">Wing S3562</idno>
+            <idno type="STC">Thomason E21_4</idno>
+            <idno type="STC">ESTC R15856</idno>
+            <idno type="PROQUEST">99859932</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859932e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112036)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E21[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short ansvver to some obiections against the practises of those who are called Independents, and a declaration against the things they are supposed to hold.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England --  17th century.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112036:1"/>
+            <p>
+               <hi>A</hi> SHORT ANSVVER TO SOME OBIECTIONS against the practises of those who are called Independents, and a de<g ref="char:EOLhyphen"/>claration against the things they are supposed to hold.</p>
+            <q>
+               <bibl>1 PET. 3. 41. 15.</bibl>
+               <p>But and if yee suffer for righteousnesse s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke, happy are yee and be not afraid of their terrour, neither be troubled.</p>
+               <p>But sanctifie the Lord in your hearts, and bee ready alwaies to give an answer to every man that asketh you a reason of the hope that is in you, with meekenesse, and seare.</p>
+            </q>
+            <q>
+               <bibl>GALAT. 5. 1.</bibl>
+               <p>Stand fast therefore in the liberty wherewith Christ hath made us free, and be not intangled againe with the yoake of bondage.</p>
+            </q>
+            <q>
+               <bibl>EPHES. 6. 14.</bibl>
+               <p>Stand therefore having your loynes girt about with truth, and having on the brest-plate of righteousnesse.</p>
+            </q>
+            <p>Printed in the yeare. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112036:2"/>
+            <pb n="1" facs="tcp:112036:2"/>
+            <head>A Short Answer to some Objections against the practises of those who are called Independents, and a Declaration a<g ref="char:EOLhyphen"/>gainst the things they are sup<g ref="char:EOLhyphen"/>posed to hold.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here being many mistakes of the practise and judgement of those that are slande<g ref="char:EOLhyphen"/>rously called Independents, amongst which are these.</p>
+            <p>First, some say by our hearing of those that say they are Officers of the Church of <hi>England,</hi> Ordained, and made Ministers by the Bishops, we doe justifie the Kingdom of <hi>England,</hi> to be a true Church, a body politicke, and the Officers thereof true Offi<g ref="char:EOLhyphen"/>cers, and also that all their Parish assemblies are true Churches, which we doe not.</p>
+            <p>Others say of us that we sin in not holding Com<g ref="char:EOLhyphen"/>munion with the Parish assemblies in all Church Or<g ref="char:EOLhyphen"/>dinances, but that we leave them to joyne with Inde<g ref="char:EOLhyphen"/>pendent Churches, and that we gather Churches out of Churches, and that wee chuse such men to bee our Officers as were never Ordained by the Bishops. This they say, though they have beene declared as Anti<g ref="char:EOLhyphen"/>christian roote and branch, and pernitious to Church
+<pb n="2" facs="tcp:112036:3"/> and State where they are, and the Lord would not have us so much as take out of <hi>Babilon</hi> a stone fo a foundation, or for a Corner. <hi>ler.</hi> 51. 26. They say also that wee sinne in meeting in private houses, and that it is sit we should meete in publique in Churches that are consecrated for that purpose. We shall answer their charge on both sides very briefly: that we may not be charged with sinne on ether side while we doe but that which is our duty, but untill the truth be made manifest, there is a shew of an appearance of evill.</p>
+            <p>WE ought to give no offence to Jew nor Gentile, nor to the Church of God, 1 <hi>Cor.</hi> 10. 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. no not that which hath an appearance of evill; 1 <hi>Thes.</hi> 5. 22. though while we are here below we fall short in many things, <hi>Rom.</hi> 3. 23. but condemne us not in those things you have not the word for; for hee that judgeth his brother, judgeth the Law, <hi>Jam.</hi> 4. 11. That is, if you condemne where the law doth not, it is a judging the Law imperfect. Be not wiser then it is written, for where a good construction can bee put on things truely, do it, Love thinkes no evill. 1 <hi>Cor.</hi> 13. 5. Let us not smite fellow servants. <hi>Mat.</hi> 24. 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Let wickednesse proceed from the wicked. 1 <hi>Sam.</hi> 24. 13. The time will come (let us all pray for it) that the envi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Ephraim</hi> shall depart, &amp; the adversaries of <hi>Judah</hi> shall bee <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut off. <hi>Ephraim</hi> shall not envie <hi>Judah,</hi> and <hi>Judah</hi> shall not vex
+<pb n="3" facs="tcp:112036:3"/>
+               <hi>Ephraim▪</hi> They shall not hurt, nor destroy in all my holy mountaine, for the earth shall be full of the knowledge of the Lord, as the waters cover the Sea. <hi>Isa.</hi> 11. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 9. In the meane time wee desire to hold forth the truth in love according to what we haver eceived</p>
+            <p>And for answer to those that take offence on both sides, we answer: For the first, that say by our hearing those that say they are Officers of the Church of <hi>England,</hi> we justifie the whole King<g ref="char:EOLhyphen"/>dome to be a true Church, and all the Parish As<g ref="char:EOLhyphen"/>semblies true Churches, we doe desire to testifie the contrary, that wee may give no offence.</p>
+            <p>For first in the New Testament, we read of no Church, a body Politique, but such as mett toge<g ref="char:EOLhyphen"/>ther in one place, that for the matter were to be e<g ref="char:EOLhyphen"/>steemed Saints, <note n="*" place="margin">Though this is the greatest Church wee reade of, the Holy Ghost saith they met in one place.</note>
+               <hi>Acts</hi> 1. 15. c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2. 6. 44. 46. c. 4. 23. 24. 31. c. 5. 12. c. 6. 2. 5. and joyned together by their voluntary consent. <note n="*" place="margin">It appeares none could force them. <hi>Paul</hi> offered himselfe vo<g ref="char:EOLhyphen"/>luntarily.</note>
+               <hi>Acts</hi> 5. 13. c. 9. 26▪ to walke together according to the rules of the New Testament <hi>Isa.</hi> 33. 22. <hi>Mat.</hi> 28. 20. <hi>Iam.</hi> 4. 12. <hi>Heb.</hi> 3. 2. 5. 6. 1 <hi>Cor.</hi> 14. 33. 37. and to such a Church, a body politique. Christ hath given his power to doe all things that ought to bee done in a Church, <hi>Mat</hi> 16. 19. c. 18.<note n="*" place="margin">Without A<g ref="char:EOLhyphen"/>postles no power but of advice, who else can say it seemeth good to the Holy Ghost and to us.</note> 17 18. 1 <hi>Cor.</hi> 5. 4. 2 <hi>Cor.</hi> 2▪ 6. 7. only that they should hearken to the advice of other Chur ches, but over a true Church Politique, no Church hath power of Iurisdiction. <hi>Acts</hi> 15. 2. 22. 23. 28. But we never read of Prophecie, or promise that
+<pb n="4" facs="tcp:112036:4"/> God will take any whole nation to be his Church but <hi>Israel,</hi> but of every Nation they, and they onely that feare him, and worke righteousnes are accepted of him, <hi>Act</hi> 10. 35. though all beleevers are members of the invisible Church, wherof all the believers in <hi>England</hi> are a part, but al in <hi>England</hi> together not a visible Church, that is a body Politique, in which collectively the Governe<g ref="char:EOLhyphen"/>ment of Christ lieth.</p>
+            <p>Secondly, the Kingdome of <hi>England,</hi> being no true Church Politique, then the ministry of it as such is no true ministry. But it is no true Church. Therefore the Officers therof no true Officers. What cannot bee proved out of the Word to be a true Church is none. But this can<g ref="char:EOLhyphen"/>not bee proved out of the Word. Therefore is it none. It was not the Church of <hi>Asia</hi> but the seven Churches of <hi>Asia</hi> that were bodies Poli<g ref="char:EOLhyphen"/>tique. The power lay not in them together, but particularly, each Church commended for its owne vertues, and reproved for its own faults, but not all joyned together in the fault: or in the power of making the cure. <hi>Revel.</hi> 2. 2, 3, 4, 5, 6. 13. 14. 15. 16.</p>
+            <p>Thirdly, we say Parish congregations are not true Churches, unlesse for the matter they are vi<g ref="char:EOLhyphen"/>sible Saints, (<hi>Philip.</hi> 1. 1. 6, 7. 1 <hi>Cor.</hi> 1. 2.) and for the forme gathered together, and joyned by volun<g ref="char:EOLhyphen"/>tary consent to worship God according to the rule of the New Testament. 1 <hi>Pet.</hi> 2. 5.</p>
+            <pb n="5" facs="tcp:112036:4"/>
+            <p>Secondly, for answer to the second sort of ob<g ref="char:EOLhyphen"/>jections against us, wee answer. First, leaving those Parish Assemblies that say they are Churches, and are not to joyne to a true Church, a body Poli<g ref="char:EOLhyphen"/>tique, is undoubtedly necessary, and wee may not have Communion with them in all Church Ordinances. 2 <hi>Cor.</hi> 6. 14. 15. 16. 17.</p>
+            <p>Secondly, Churches may bee gathered out of such as were true Churches, but have Apostatized, and live in sinfull practises, and having beene dealt withall according to the rule of the Word remaine obstinate, one ought to separate from them, 2 <hi>Cor.</hi> 6. 14. 15. <hi>Revel.</hi> 18. 4. or from any Church, when I cannot have communion with them, but I shall contract personall defilement.</p>
+            <p>Thirdly, we doe heare none as Officers that preach, but as gifted men, unlesse it bee such as are chosen by a true Church, a body Politique, and they when they exercise in their owne Church, but in all other places we heare them but as gifted men, though we acknowledge their Office else where; And so those that are slanderously called Independent Ministers do preach, and their people heare in all places where they come. And none of them doe hold their Ordination by the Bishops, or any other false power to their Ministry, for they doe in no sense make a man a Minister, either in his owne Church, or else where, but onely the call of a true Church, a body Politique. Though otherwise Churches may, and ought to advise and
+<pb n="6" facs="tcp:112036:5"/> bee advised by each other in their choise, yet they have no power, if they dissent to make the call of the Officer so chosen void.</p>
+            <p>Fourthly, though wee thinke it convenient to meete with our Churches in publique places, by some called Churches (if we might have liberty) yet we account no holinesse to be in the places <note n="*" place="margin">Though it is fit to meete in convenient places, yet God lookes rather at the persons than the place. <hi>Pauls</hi> preach<g ref="char:EOLhyphen"/>ing neither ju<g ref="char:EOLhyphen"/>stified the place nor their wor<g ref="char:EOLhyphen"/>ship he decla<g ref="char:EOLhyphen"/>ring against it: Acts. 17. 22.</note>
+               <hi>John</hi> 4. 20. 23.) and that the consecration thereof was sinfull, though in regard of their room<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, and seates, and publikenesse we judge them con<g ref="char:EOLhyphen"/>venient.</p>
+            <p>We have done this that we may not bee par<g ref="char:EOLhyphen"/>takers of other mens sinnes, but keepe our selves pure, 1 <hi>Tim.</hi> 5. 22. that by our presence in hearing, or preaching we may not lay a stumbling blocke before the eyes of the blinde <hi>Lev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 19. 14. <hi>Rom.</hi> 14. 13. c. 14. 20., or offend any of our brethren, in giving them occasion to thinke we sinne while we doe but what is our duty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
